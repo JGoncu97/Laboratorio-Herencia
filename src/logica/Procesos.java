@@ -1,6 +1,6 @@
 package logica;
 
-// Importamos las librerías necesarias
+
 import javax.swing.JOptionPane;
 
 import clase.empleado.EmpleadoEventual;
